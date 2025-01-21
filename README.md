@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/OAmMHZwW)
+A Python-based project that uses color histograms to classify images into categories, leveraging the CIFAR-10 dataset. It implements cosine similarity for classification and supports visualization of normalized histograms.
